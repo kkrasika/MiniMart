@@ -16,8 +16,9 @@ Jasper Reports
 --Java Template--
 Java Template Engine (Freemaker) 
 
---SPA--
+--SPA/Frontend--
 React/Vue (SPA)
+Bootstrap
 
 --Middleware--
 Docker
