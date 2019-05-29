@@ -1,0 +1,26 @@
+mvn clean install -DskipTests
+
+--Spring--
+Spring Boot
+Spring MVC
+Spring Security
+Spring Data
+Spring-Hibernate
+
+--Testing--
+Junit/Mockito/Surfire
+
+--Reporting--
+Jasper Reports
+
+--Java Template--
+Java Template Engine (Freemaker) 
+
+--SPA--
+React/Vue (SPA)
+
+--Middleware--
+Docker
+Elasticsearch
+RabbitMQ/Kafka
+Mulesoft ESB
